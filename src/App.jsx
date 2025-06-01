@@ -10,7 +10,7 @@ function App() {
             <img
               src={coverImg}
               alt="Almond Cakes & Coffee"
-              className="w-full h-[250] object-cover"
+              className="w-full h-[260] object-cover"
             />
 
             {/* Logo Box Positioned Over Image */}
