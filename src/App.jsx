@@ -10,7 +10,7 @@ function App() {
             <img
               src="https://i.pinimg.com/736x/e0/df/82/e0df82d1d992ef040ad6052e3c569ec8.jpg"
               alt="Almond Cakes & Coffee"
-              className="w-full h-[260] object-cover"
+              className="w-full h-52 object-cover"
             />
 
             {/* Logo Box Positioned Over Image */}
